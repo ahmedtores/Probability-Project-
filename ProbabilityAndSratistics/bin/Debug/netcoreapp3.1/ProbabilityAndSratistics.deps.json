@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProbabilityAndSratistics/1.0.0": {
+        "runtime": {
+          "ProbabilityAndSratistics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProbabilityAndSratistics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
